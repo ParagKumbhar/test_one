@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
 
-  // This is the Login Brach
+  // This is the home Brach
   runApp(const MyApp());
 }
 
